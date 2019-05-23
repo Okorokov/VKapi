@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VKapi</string>
+    <integer name="com_vk_sdk_AppId">5306533</integer>
+    <string name="login">Авторизоваться</string>
+    <string name="logout">Logout</string>
+    <string name="share_to_wall">Send to my wall</string>
+    <string name="message_hint">Your message</string>
+    <string name="wall_ok">Post has been published</string>
+</resources>
